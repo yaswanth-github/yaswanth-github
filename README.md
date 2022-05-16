@@ -33,10 +33,13 @@ Hi 👋 My name is Yaswanth
 
 <a href="http://www.github.com/yaswanth-github"><img src="https://github-readme-stats.vercel.app/api?username=yaswanth-github&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yaswanth-github's GitHub stats" /></a>
 
-<a href="http://www.github.com/yaswanth-github"><img src="https://activity-graph.herokuapp.com/graph?username=yaswanth-github&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- Github commits graph -->
+<!-- <a href="http://www.github.com/yaswanth-github"><img src="https://activity-graph.herokuapp.com/graph?username=yaswanth-github&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
+<!-- Most used Languages-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswanth-github&show_icons=true&locale=en&layout=compact" alt="yaswanth-github" /></p>
 
+<!-- trophies -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaswanth-github" alt="yaswanth-github" /></a> </p>
 
 
