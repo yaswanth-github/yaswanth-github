@@ -7,8 +7,6 @@ Hi 👋 My name is Yaswanth
 * 👨‍💻 All of my projects are available at [https://yaswanth-github.github.io/](https://yaswanth-github.github.io/)
 *  📄 Know about my experiences [https://yaswanth-github.github.io/CV.pdf](https://yaswanth-github.github.io/CV.pdf)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanth-github&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanth-github" /> </p>
-
 ### Skills
 
 <p align="left">
@@ -36,12 +34,16 @@ Hi 👋 My name is Yaswanth
 <!-- Github commits graph -->
 <!-- <a href="http://www.github.com/yaswanth-github"><img src="https://activity-graph.herokuapp.com/graph?username=yaswanth-github&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-<!-- Most used Languages-->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswanth-github&show_icons=true&locale=en&layout=compact" alt="yaswanth-github" /></p>
-
 <!-- trophies -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaswanth-github" alt="yaswanth-github" /></a> </p>
+<h2>🏆 Github Profile Trophy</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=NikhilMahana&column=8&theme=algolia&no-frame=true"/>
+</a>
 
+<!-- Most used Languages-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMahana&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanth-github&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanth-github" /> </p>
 
 ### Support Me
 
