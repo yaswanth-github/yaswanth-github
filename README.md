@@ -1,11 +1,11 @@
-Hi 👋 My name is Yaswanth
+Hi 👋 I'm Yaswanth
 =========================
 
 * 🌍  I'm based in INDIA
-* ✉️  You can contact me at [lnvyeswanth1575@gmail.com](mailto:lnvyeswanth1575@gmail.com)
+* 📧  You can contact me at [lnvyeswanth1575@gmail.com](mailto:lnvyeswanth1575@gmail.com)
 * 🧠  I'm learning AI & ML
 * 👨‍💻 All of my projects are available at [https://yaswanth-github.github.io/](https://yaswanth-github.github.io/)
-*  📄 Know about my experiences [https://yaswanth-github.github.io/CV.pdf](https://yaswanth-github.github.io/CV.pdf)
+* 📄 Know about my experiences [https://yaswanth-github.github.io/CV.pdf](https://yaswanth-github.github.io/CV.pdf)
 
 ### Skills
 
@@ -27,24 +27,26 @@ Hi 👋 My name is Yaswanth
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<!-- trophies -->
+<b>🏆 Github Profile Trophy</b>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=yaswanth-github&column=8&theme=algolia&no-frame=true"/>
+</a>
+
+<b>📊 My GitHub Stats</b>
 
 <a href="http://www.github.com/yaswanth-github"><img src="https://github-readme-stats.vercel.app/api?username=yaswanth-github&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yaswanth-github's GitHub stats" /></a>
 
 <!-- Github commits graph -->
 <!-- <a href="http://www.github.com/yaswanth-github"><img src="https://activity-graph.herokuapp.com/graph?username=yaswanth-github&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-<!-- trophies -->
-<h2>🏆 Github Profile Trophy</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=NikhilMahana&column=8&theme=algolia&no-frame=true"/>
-</a>
+
 
 <!-- Most used Languages-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMahana&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth-github&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanth-github&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanth-github" /> </p>
-
-### Support Me
+### 🎗Support Me
 
 <a href="https://www.buymeacoffee.com/lnvyaswanth"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=yaswanth-github&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanth-github" /> </p>
